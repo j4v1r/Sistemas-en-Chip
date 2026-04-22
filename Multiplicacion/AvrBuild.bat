@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\colun\Documents\Sistemas-en-Chip\Multiplicacion\labels.tmp" -fI -W+ie -o "C:\Users\colun\Documents\Sistemas-en-Chip\Multiplicacion\Multiplicacion.hex" -d "C:\Users\colun\Documents\Sistemas-en-Chip\Multiplicacion\Multiplicacion.obj" -e "C:\Users\colun\Documents\Sistemas-en-Chip\Multiplicacion\Multiplicacion.eep" -m "C:\Users\colun\Documents\Sistemas-en-Chip\Multiplicacion\Multiplicacion.map" "C:\Users\colun\Documents\Sistemas-en-Chip\Multiplicacion\Multiplicacion.asm"

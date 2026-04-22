@@ -1,0 +1,24 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <otro><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.asm</FILE><LINE>9</LINE></otro>
+ </LABELS>
+</ASSEMBLER_INFO>

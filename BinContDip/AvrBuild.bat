@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\colun\Documents\Sistemas-en-Chip\BinContDip\labels.tmp" -fI -W+ie -o "C:\Users\colun\Documents\Sistemas-en-Chip\BinContDip\BinContDip.hex" -d "C:\Users\colun\Documents\Sistemas-en-Chip\BinContDip\BinContDip.obj" -e "C:\Users\colun\Documents\Sistemas-en-Chip\BinContDip\BinContDip.eep" -m "C:\Users\colun\Documents\Sistemas-en-Chip\BinContDip\BinContDip.map" "C:\Users\colun\Documents\Sistemas-en-Chip\BinContDip\BinContDip.asm"

@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\labels.tmp" -fI -W+ie -o "C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.hex" -d "C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.obj" -e "C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.eep" -m "C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.map" "C:\Users\colun\Documents\Sistemas-en-Chip\Suma16Bits\Suma16Bits.asm"

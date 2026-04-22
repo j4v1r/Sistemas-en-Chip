@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\labels.tmp" -fI -W+ie -o "C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.hex" -d "C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.obj" -e "C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.eep" -m "C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.map" "C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm"
