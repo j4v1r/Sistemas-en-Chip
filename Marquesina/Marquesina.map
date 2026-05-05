@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.12  C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm Tue Apr 28 08:04:59 2026
+AVRASM ver. 2.1.12  C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm Wed Apr 29 08:19:20 2026
 
 
 EQU  SIGNATURE_000 0000001e
@@ -591,6 +591,12 @@ EQU  INT2addr     00000012
 EQU  OC0addr      00000013
 EQU  SPMRaddr     00000014
 EQU  INT_VECTORS_SIZE 00000015
-DEF  dato         r16
-CSEG aqui         00000003
-CSEG tabla_hex    0000000b
+DEF  aux          r16
+DEF  col          r17
+CSEG reset        00000000
+CSEG inicio       0000000a
+CSEG t0_ovf       00000029
+CSEG val_ini      00000021
+CSEG loop         00000020
+CSEG uno          00000034
+CSEG dos          00000033

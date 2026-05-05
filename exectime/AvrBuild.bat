@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\colun\Documents\Sistemas-en-Chip\exectime\labels.tmp" -fI -W+ie -o "C:\Users\colun\Documents\Sistemas-en-Chip\exectime\exectime.hex" -d "C:\Users\colun\Documents\Sistemas-en-Chip\exectime\exectime.obj" -e "C:\Users\colun\Documents\Sistemas-en-Chip\exectime\exectime.eep" -m "C:\Users\colun\Documents\Sistemas-en-Chip\exectime\exectime.map" "C:\Users\colun\Documents\Sistemas-en-Chip\exectime\exectime.asm"

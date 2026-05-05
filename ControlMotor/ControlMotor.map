@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.12  C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm Tue Apr 28 08:04:59 2026
+AVRASM ver. 2.1.12  C:\Users\colun\Documents\Sistemas-en-Chip\ControlMotor\ControlMotor.asm Wed Apr 29 07:56:03 2026
 
 
 EQU  SIGNATURE_000 0000001e
@@ -591,6 +591,16 @@ EQU  INT2addr     00000012
 EQU  OC0addr      00000013
 EQU  SPMRaddr     00000014
 EQU  INT_VECTORS_SIZE 00000015
-DEF  dato         r16
-CSEG aqui         00000003
-CSEG tabla_hex    0000000b
+DEF  aux          r16
+CSEG checa        00000007
+CSEG cero         0000000e
+CSEG noventa      00000019
+CSEG cien80       00000024
+CSEG uno@pulso@882 00000010
+CSEG medms        0000002f
+CSEG cta@pulso@882 00000015
+CSEG uno@pulso@903 0000001b
+CSEG cta@pulso@903 00000020
+CSEG uno@pulso@924 00000026
+CSEG cta@pulso@924 0000002b
+CSEG L1           00000030

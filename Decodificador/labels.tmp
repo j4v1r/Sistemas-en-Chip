@@ -19,6 +19,7 @@
   <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.map</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <equi><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm</FILE><LINE>15</LINE></equi>
+  <aqui><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm</FILE><LINE>10</LINE></aqui>
+  <tabla_hex><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm</FILE><LINE>21</LINE></tabla_hex>
  </LABELS>
 </ASSEMBLER_INFO>

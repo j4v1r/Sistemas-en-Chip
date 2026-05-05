@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>5</LINE></reset>
+  <inicio><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>10</LINE></inicio>
+  <t0_ovf><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>47</LINE></t0_ovf>
+  <val_ini><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>37</LINE></val_ini>
+  <loop><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>34</LINE></loop>
+  <uno><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>62</LINE></uno>
+  <dos><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>59</LINE></dos>
+ </LABELS>
+</ASSEMBLER_INFO>

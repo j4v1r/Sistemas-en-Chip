@@ -1,0 +1,6 @@
+
+AVRASM ver. 2.1.12  C:\Users\colun\Documents\Sistemas-en-Chip\exectime\exectime.asm Thu Apr 23 19:45:16 2026
+
+
+CSEG loop         00000003
+CSEG fin          0000000c

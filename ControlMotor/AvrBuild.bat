@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\colun\Documents\Sistemas-en-Chip\ControlMotor\labels.tmp" -fI -W+ie -o "C:\Users\colun\Documents\Sistemas-en-Chip\ControlMotor\ControlMotor.hex" -d "C:\Users\colun\Documents\Sistemas-en-Chip\ControlMotor\ControlMotor.obj" -e "C:\Users\colun\Documents\Sistemas-en-Chip\ControlMotor\ControlMotor.eep" -m "C:\Users\colun\Documents\Sistemas-en-Chip\ControlMotor\ControlMotor.map" "C:\Users\colun\Documents\Sistemas-en-Chip\ControlMotor\ControlMotor.asm"
