@@ -19,12 +19,17 @@
   <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.map</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <reset><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>5</LINE></reset>
-  <inicio><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>10</LINE></inicio>
-  <t0_ovf><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>47</LINE></t0_ovf>
-  <val_ini><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>37</LINE></val_ini>
-  <loop><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>34</LINE></loop>
-  <uno><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>62</LINE></uno>
-  <dos><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>59</LINE></dos>
+  <reset><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>6</LINE></reset>
+  <inicio><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>11</LINE></inicio>
+  <t0_ovf><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>54</LINE></t0_ovf>
+  <val_ini><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>44</LINE></val_ini>
+  <loop><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>41</LINE></loop>
+  <uno><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>104</LINE></uno>
+  <d0><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>73</LINE></d0>
+  <d1><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>75</LINE></d1>
+  <d2><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>77</LINE></d2>
+  <d3><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>79</LINE></d3>
+  <mostrar><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>81</LINE></mostrar>
+  <dos><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm</FILE><LINE>101</LINE></dos>
  </LABELS>
 </ASSEMBLER_INFO>

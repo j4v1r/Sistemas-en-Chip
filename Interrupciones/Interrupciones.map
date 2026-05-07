@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.12  C:\Users\colun\Documents\Sistemas-en-Chip\Marquesina\Marquesina.asm Wed May 06 08:13:32 2026
+AVRASM ver. 2.1.12  C:\Users\colun\Documents\Sistemas-en-Chip\Interrupciones\Interrupciones.asm Wed May 06 15:50:45 2026
 
 
 EQU  SIGNATURE_000 0000001e
@@ -592,17 +592,9 @@ EQU  OC0addr      00000013
 EQU  SPMRaddr     00000014
 EQU  INT_VECTORS_SIZE 00000015
 DEF  aux          r16
-DEF  col          r17
-DEF  cnt          r18
+DEF  cont         r17
 CSEG reset        00000000
-CSEG inicio       0000000a
-CSEG t0_ovf       00000028
-CSEG val_ini      00000022
-CSEG loop         00000021
-CSEG uno          00000047
-CSEG d0           00000035
-CSEG d1           00000037
-CSEG d2           00000039
-CSEG d3           0000003b
-CSEG mostrar      0000003c
-CSEG dos          00000046
+CSEG inicio       00000003
+CSEG sube         00000016
+CSEG baja         00000018
+CSEG loop         00000011

@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\colun\Documents\Sistemas-en-Chip\Interrupciones\labels.tmp" -fI -W+ie -o "C:\Users\colun\Documents\Sistemas-en-Chip\Interrupciones\Interrupciones.hex" -d "C:\Users\colun\Documents\Sistemas-en-Chip\Interrupciones\Interrupciones.obj" -e "C:\Users\colun\Documents\Sistemas-en-Chip\Interrupciones\Interrupciones.eep" -m "C:\Users\colun\Documents\Sistemas-en-Chip\Interrupciones\Interrupciones.map" "C:\Users\colun\Documents\Sistemas-en-Chip\Interrupciones\Interrupciones.asm"

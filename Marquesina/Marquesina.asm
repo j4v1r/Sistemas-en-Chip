@@ -1,11 +1,13 @@
 	.include "m8535def.inc"
 	.def aux=r16
 	.def col=r17
+	.def cont=r18
 
 reset:
 	rjmp inicio
 	.org $009
 	rjmp t0_ovf
+	rjmp cambio
 
 inicio:
 	ldi aux,low(RAMEND)
@@ -15,13 +17,13 @@ inicio:
 	ser aux
 	out ddra,aux
 	out ddrc,aux
-	ldi aux,$77
+	ldi aux,$8e
 	mov r0,aux
-	ldi aux,$38
+	ldi aux,$c0
 	mov r1,aux
-	ldi aux,$3f
+	ldi aux,$c6
 	mov r2,aux
-	ldi aux,$76
+	ldi aux,$88
 	mov r3,aux
 	clr zh
 	ldi aux,1
@@ -38,9 +40,10 @@ val_ini:
 	ldi col,1
 	clr zl
 	ld aux,z
-	com col
+	ldi cont,0
+	;com col
 	out portc,col
-	com col
+	;com col
 	out porta,aux
 	ret
 
@@ -51,9 +54,9 @@ t0_ovf:
 	breq uno
 	inc zl
 	ld aux,z
-	com col
-	out portc,col
-	com col
+	;com col
+	out portc,col	
+	;com col
 	out porta,aux
 
 dos:
@@ -63,4 +66,9 @@ uno:
 	rcall val_ini
 	rjmp dos
 	
+cambio:
+	lsl cont
+	cpi cont,
+
+
 
