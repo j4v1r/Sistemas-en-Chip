@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.12  C:\Users\colun\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm Tue May 12 11:24:37 2026
+AVRASM ver. 2.1.12  C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm Wed May 20 08:11:34 2026
 
 
 EQU  SIGNATURE_000 0000001e
@@ -593,38 +593,16 @@ EQU  SPMRaddr     00000014
 EQU  INT_VECTORS_SIZE 00000015
 DEF  aux          r16
 DEF  npul         r17
-EQU  a            00000000
-EQU  b            00000001
-EQU  c            00000002
-EQU  d            00000003
-EQU  e            00000004
-EQU  f            00000005
-EQU  g            00000006
-EQU  on           00000004
-EQU  off          00000002
-CSEG test         00000007
-CSEG dos@segm@902 00000008
-CSEG uno@segm@902 0000000a
-CSEG medms        00000064
-CSEG cta@segm@902 0000000f
-CSEG dos@segm@925 00000015
-CSEG uno@segm@925 00000017
-CSEG cta@segm@925 0000001c
-CSEG dos@segm@948 00000022
-CSEG uno@segm@948 00000024
-CSEG cta@segm@948 00000029
-CSEG dos@segm@971 0000002f
-CSEG uno@segm@971 00000031
-CSEG cta@segm@971 00000036
-CSEG dos@segm@994 0000003c
-CSEG uno@segm@994 0000003e
-CSEG cta@segm@994 00000043
-CSEG dos@segm@1017 00000049
-CSEG uno@segm@1017 0000004b
-CSEG cta@segm@1017 00000050
-CSEG dos@segm@1040 00000056
-CSEG uno@segm@1040 00000058
-CSEG cta@segm@1040 0000005d
-CSEG seg          00000069
-CSEG L1           00000065
-CSEG L2           0000006c
+EQU  ON           00000003
+EQU  OFF          00000001
+CSEG main_loop    0000002c
+CSEG seg_loop     00000035
+CSEG segment_off  0000003a
+CSEG segment_on   00000038
+CSEG do_servo     0000003b
+CSEG servo_pulse  00000040
+CSEG sp_pulse_loop 00000041
+CSEG sp_high_wait 00000045
+CSEG medms        00000055
+CSEG sp_low_wait  0000004f
+CSEG medms_loop   00000056
