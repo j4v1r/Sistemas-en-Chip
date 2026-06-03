@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\labels.tmp" -fI -W+ie -o "C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.hex" -d "C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.obj" -e "C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.eep" -m "C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.map" "C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm"

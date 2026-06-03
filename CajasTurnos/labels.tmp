@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>48</LINE></inicio>
+  <isr_guardar><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>97</LINE></isr_guardar>
+  <tabla_7seg><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>24</LINE></tabla_7seg>
+  <cargar_eeprom><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>140</LINE></cargar_eeprom>
+  <loop><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>84</LINE></loop>
+  <inc_turno><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>179</LINE></inc_turno>
+  <display_mux><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>201</LINE></display_mux>
+  <guardar_eeprom><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>104</LINE></guardar_eeprom>
+  <wait_w1><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>106</LINE></wait_w1>
+  <wait_w2><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>117</LINE></wait_w2>
+  <wait_w3><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>127</LINE></wait_w3>
+  <wait_r><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>141</LINE></wait_r>
+  <eeprom_lista><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>173</LINE></eeprom_lista>
+  <check_max><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>187</LINE></check_max>
+  <fin_inc><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>195</LINE></fin_inc>
+  <get_seg><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>248</LINE></get_seg>
+  <delay_1ms><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>261</LINE></delay_1ms>
+  <no_carry><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>254</LINE></no_carry>
+  <L1><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\CajasTurnos\CajasTurnos.asm</FILE><LINE>263</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
