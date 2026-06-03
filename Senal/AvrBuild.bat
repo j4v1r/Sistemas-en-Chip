@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\aleja\Documents\Sistemas-en-Chip\Senal\labels.tmp" -fI -W+ie -o "C:\Users\aleja\Documents\Sistemas-en-Chip\Senal\Senal.hex" -d "C:\Users\aleja\Documents\Sistemas-en-Chip\Senal\Senal.obj" -e "C:\Users\aleja\Documents\Sistemas-en-Chip\Senal\Senal.eep" -m "C:\Users\aleja\Documents\Sistemas-en-Chip\Senal\Senal.map" "C:\Users\aleja\Documents\Sistemas-en-Chip\Senal\Senal.asm"
