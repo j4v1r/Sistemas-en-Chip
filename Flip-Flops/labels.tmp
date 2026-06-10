@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>16</LINE></inicio>
+  <clk_jk><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>61</LINE></clk_jk>
+  <clk_t><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>98</LINE></clk_t>
+  <clk_d><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>112</LINE></clk_d>
+  <fin><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>54</LINE></fin>
+  <jk_memoria><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>77</LINE></jk_memoria>
+  <jk_borrado><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>80</LINE></jk_borrado>
+  <jk_puesta><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>87</LINE></jk_puesta>
+  <d_reset><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>123</LINE></d_reset>
+  <d_set><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm</FILE><LINE>116</LINE></d_set>
+ </LABELS>
+</ASSEMBLER_INFO>

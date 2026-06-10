@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\aleja\Documents\Sistemas-en-Chip\ServoCEnsam\labels.tmp" -fI -W+ie -o "C:\Users\aleja\Documents\Sistemas-en-Chip\ServoCEnsam\ServoCEnsam.hex" -d "C:\Users\aleja\Documents\Sistemas-en-Chip\ServoCEnsam\ServoCEnsam.obj" -e "C:\Users\aleja\Documents\Sistemas-en-Chip\ServoCEnsam\ServoCEnsam.eep" -m "C:\Users\aleja\Documents\Sistemas-en-Chip\ServoCEnsam\ServoCEnsam.map" "C:\Users\aleja\Documents\Sistemas-en-Chip\ServoCEnsam\ServoCEnsam.asm"

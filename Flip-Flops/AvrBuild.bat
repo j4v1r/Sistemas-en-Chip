@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\labels.tmp" -fI -W+ie -o "C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.hex" -d "C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.obj" -e "C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.eep" -m "C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.map" "C:\Users\aleja\Documents\Sistemas-en-Chip\Flip-Flops\Flip-Flops.asm"
