@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main_loop><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>63</LINE></main_loop>
+  <seg_loop><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>80</LINE></seg_loop>
+  <segment_off><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>91</LINE></segment_off>
+  <segment_on><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>87</LINE></segment_on>
+  <do_servo><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>94</LINE></do_servo>
+  <servo_pulse><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>106</LINE></servo_pulse>
+  <sp_pulse_loop><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>110</LINE></sp_pulse_loop>
+  <sp_high_wait><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>119</LINE></sp_high_wait>
+  <medms><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>146</LINE></medms>
+  <sp_low_wait><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>134</LINE></sp_low_wait>
+  <medms_loop><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\DisplayMotor\DisplayMotor.asm</FILE><LINE>149</LINE></medms_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
