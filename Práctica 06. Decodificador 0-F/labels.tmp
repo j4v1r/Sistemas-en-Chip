@@ -1,25 +1,25 @@
 <ASSEMBLER_INFO>
  <VERSION>2.1.12</VERSION>
  <DEVICE>ATmega8535</DEVICE>
- <WORKING_DIR>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador</WORKING_DIR>
+ <WORKING_DIR>C:\Users\aleja\Documents\Sistemas-en-Chip\Práctica 06. Decodificador 0-F</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm</SOURCE_FILE>
+ <SOURCE_FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Práctica 06. Decodificador 0-F\Decodificador.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.obj</FILE>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Práctica 06. Decodificador 0-F\Decodificador.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
-  <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.hex</FILE>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Práctica 06. Decodificador 0-F\Decodificador.hex</FILE>
  </HEX_FILES>
  <OUTPUT_FILES>
-  <FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.map</FILE>
+  <FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Práctica 06. Decodificador 0-F\Decodificador.map</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <aqui><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm</FILE><LINE>10</LINE></aqui>
-  <tabla_hex><FILE>C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm</FILE><LINE>21</LINE></tabla_hex>
+  <aqui><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Práctica 06. Decodificador 0-F\Decodificador.asm</FILE><LINE>10</LINE></aqui>
+  <tabla_hex><FILE>C:\Users\aleja\Documents\Sistemas-en-Chip\Práctica 06. Decodificador 0-F\Decodificador.asm</FILE><LINE>22</LINE></tabla_hex>
  </LABELS>
 </ASSEMBLER_INFO>

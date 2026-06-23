@@ -14,7 +14,8 @@ aqui:
 	in dato, pinb       
 	andi dato, $0f      
 	add zl, dato        
-	lpm dato, Z           
+	lpm dato, Z   
+	com dato        
 	out porta, dato      
 	rjmp aqui           
 

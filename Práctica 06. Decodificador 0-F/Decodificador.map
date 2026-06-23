@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.12  C:\Users\colun\Documents\Sistemas-en-Chip\Decodificador\Decodificador.asm Tue Apr 28 08:04:59 2026
+AVRASM ver. 2.1.12  C:\Users\aleja\Documents\Sistemas-en-Chip\Práctica 06. Decodificador 0-F\Decodificador.asm Fri Jun 19 23:55:12 2026
 
 
 EQU  SIGNATURE_000 0000001e
@@ -593,4 +593,4 @@ EQU  SPMRaddr     00000014
 EQU  INT_VECTORS_SIZE 00000015
 DEF  dato         r16
 CSEG aqui         00000003
-CSEG tabla_hex    0000000b
+CSEG tabla_hex    0000000c
