@@ -1,0 +1,73 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>41</LINE></Start>
+  <nada><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>255</LINE></nada>
+  <barre><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>263</LINE></barre>
+  <CONV><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>258</LINE></CONV>
+  <Loop><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>72</LINE></Loop>
+  <sinBoton><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>99</LINE></sinBoton>
+  <num0><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>103</LINE></num0>
+  <num1><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>105</LINE></num1>
+  <num2><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>107</LINE></num2>
+  <num3><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>109</LINE></num3>
+  <num4><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>111</LINE></num4>
+  <num5><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>113</LINE></num5>
+  <num6><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>115</LINE></num6>
+  <num7><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>117</LINE></num7>
+  <num8><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>119</LINE></num8>
+  <num9><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>121</LINE></num9>
+  <apagar><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>234</LINE></apagar>
+  <mostrar0><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>124</LINE></mostrar0>
+  <mostrar1><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>135</LINE></mostrar1>
+  <mostrar2><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>146</LINE></mostrar2>
+  <mostrar3><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>157</LINE></mostrar3>
+  <mostrar4><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>168</LINE></mostrar4>
+  <mostrar5><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>179</LINE></mostrar5>
+  <mostrar6><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>190</LINE></mostrar6>
+  <mostrar7><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>201</LINE></mostrar7>
+  <mostrar8><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>212</LINE></mostrar8>
+  <mostrar9><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>223</LINE></mostrar9>
+  <carga0><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>128</LINE></carga0>
+  <cero><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>283</LINE></cero>
+  <carga1><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>139</LINE></carga1>
+  <uno><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>285</LINE></uno>
+  <carga2><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>150</LINE></carga2>
+  <dos><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>287</LINE></dos>
+  <carga3><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>161</LINE></carga3>
+  <tres><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>289</LINE></tres>
+  <carga4><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>172</LINE></carga4>
+  <cuatro><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>291</LINE></cuatro>
+  <carga5><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>183</LINE></carga5>
+  <cinco><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>293</LINE></cinco>
+  <carga6><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>194</LINE></carga6>
+  <seis><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>295</LINE></seis>
+  <carga7><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>205</LINE></carga7>
+  <siete><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>297</LINE></siete>
+  <carga8><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>216</LINE></carga8>
+  <ocho><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>299</LINE></ocho>
+  <carga9><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>227</LINE></carga9>
+  <nueve><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>301</LINE></nueve>
+  <sin_cambio><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>250</LINE></sin_cambio>
+  <nbarre><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>276</LINE></nbarre>
+  <sss><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 18. EjercicioFinal\EjercicioFinal.asm</FILE><LINE>269</LINE></sss>
+ </LABELS>
+</ASSEMBLER_INFO>

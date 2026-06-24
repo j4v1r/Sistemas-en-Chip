@@ -1,0 +1,26 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\CC090626\Documents\Sistemas-en-Chip\PotenciometroEnsam</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\PotenciometroEnsam\PotenciometroEnsam.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\PotenciometroEnsam\PotenciometroEnsam.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\PotenciometroEnsam\PotenciometroEnsam.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\PotenciometroEnsam\PotenciometroEnsam.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\PotenciometroEnsam\PotenciometroEnsam.asm</FILE><LINE>9</LINE></start>
+  <conv><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\PotenciometroEnsam\PotenciometroEnsam.asm</FILE><LINE>26</LINE></conv>
+  <loop><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\PotenciometroEnsam\PotenciometroEnsam.asm</FILE><LINE>22</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

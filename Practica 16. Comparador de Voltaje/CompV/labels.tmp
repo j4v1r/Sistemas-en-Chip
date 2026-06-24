@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.asm</FILE><LINE>11</LINE></main>
+  <ISR_ANA_COMP><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.asm</FILE><LINE>33</LINE></ISR_ANA_COMP>
+  <ciclo_infinito><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.asm</FILE><LINE>29</LINE></ciclo_infinito>
+  <poner_guion><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.asm</FILE><LINE>47</LINE></poner_guion>
+  <poner_c><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.asm</FILE><LINE>52</LINE></poner_c>
+  <salir_ISR><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.asm</FILE><LINE>56</LINE></salir_ISR>
+ </LABELS>
+</ASSEMBLER_INFO>

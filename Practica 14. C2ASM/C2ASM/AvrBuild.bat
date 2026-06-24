@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\labels.tmp" -fI -W+ie -o "C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.hex" -d "C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.obj" -e "C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.eep" -m "C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.map" "C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.asm"

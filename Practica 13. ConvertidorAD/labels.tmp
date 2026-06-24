@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>24</LINE></start>
+  <loop><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>78</LINE></loop>
+  <esperar_adc><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>82</LINE></esperar_adc>
+  <cuenta_estabilidad><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>99</LINE></cuenta_estabilidad>
+  <puente_mostrar><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>120</LINE></puente_mostrar>
+  <liberar_tecla><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>116</LINE></liberar_tecla>
+  <procesar_tecla><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>138</LINE></procesar_tecla>
+  <mostrar><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>332</LINE></mostrar>
+  <tecla_asterisco><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>148</LINE></tecla_asterisco>
+  <guardar><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>313</LINE></guardar>
+  <tecla_2><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>158</LINE></tecla_2>
+  <tecla_5><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>167</LINE></tecla_5>
+  <tecla_8><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>176</LINE></tecla_8>
+  <tecla_0><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>185</LINE></tecla_0>
+  <tecla_3><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>194</LINE></tecla_3>
+  <tecla_6><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>203</LINE></tecla_6>
+  <tecla_9><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>223</LINE></tecla_9>
+  <mostrar_9><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>228</LINE></mostrar_9>
+  <tecla_4><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>233</LINE></tecla_4>
+  <mostrar_4><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>238</LINE></mostrar_4>
+  <tecla_hash><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>243</LINE></tecla_hash>
+  <tecla_7><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>252</LINE></tecla_7>
+  <tecla_A><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>272</LINE></tecla_A>
+  <tecla_B><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>281</LINE></tecla_B>
+  <tecla_C><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>290</LINE></tecla_C>
+  <tecla_D><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>299</LINE></tecla_D>
+  <t_noise><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>308</LINE></t_noise>
+  <delay><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>387</LINE></delay>
+  <d2><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>389</LINE></d2>
+  <d1><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\Practica 13. ConvertidorAD\ConvertidorAD.asm</FILE><LINE>391</LINE></d1>
+ </LABELS>
+</ASSEMBLER_INFO>

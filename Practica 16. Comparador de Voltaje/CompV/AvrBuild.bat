@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\labels.tmp" -fI -W+ie -o "C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.hex" -d "C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.obj" -e "C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.eep" -m "C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.map" "C:\Users\CC090626\Documents\Sistemas-en-Chip\CompV\CompV.asm"

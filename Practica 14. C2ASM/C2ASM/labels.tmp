@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.asm</FILE><LINE>7</LINE></inicio>
+  <ciclo_principal><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.asm</FILE><LINE>22</LINE></ciclo_principal>
+  <btn_presionado><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.asm</FILE><LINE>46</LINE></btn_presionado>
+  <btn_no_presionado><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.asm</FILE><LINE>26</LINE></btn_no_presionado>
+  <retardo><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.asm</FILE><LINE>67</LINE></retardo>
+  <L1><FILE>C:\Users\CC090626\Documents\Sistemas-en-Chip\C2ASM\C2ASM.asm</FILE><LINE>76</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
